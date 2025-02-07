@@ -12,6 +12,7 @@ The course has lectures with a step-by-step implementation, detailed explanation
 Learn Playwright API Testing from scratch.
 
 Visit the course page here:
+
 [![Playwright API Testing Mastery](https://img.shields.io/badge/Playwright_API_Testing_Mastery-blue?style=for-the-badge)](https://www.bondaracademy.com/course/playwright-api-testing-mastery?utm_source=github&utm_medium=readme)
 
 
